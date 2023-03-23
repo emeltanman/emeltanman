@@ -1,4 +1,4 @@
-### Hi there! I'm Emel 👋
+ # Hi there! I'm Emel 👋
 
 
 - 🌱 I’m currently learning *SQL , PYTHON* etc.
